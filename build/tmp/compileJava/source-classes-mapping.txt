@@ -1,0 +1,30 @@
+com/amar/proto/SimpleMessageOuterClass.java
+ com.amar.proto.SimpleMessageOuterClass
+ com.amar.proto.SimpleMessageOuterClass$SimpleMessage
+ com.amar.proto.SimpleMessageOuterClass$SimpleMessage$1
+ com.amar.proto.SimpleMessageOuterClass$SimpleMessage$Builder
+ com.amar.proto.SimpleMessageOuterClass$SimpleMessageOrBuilder
+com/amar/SampleProtoClass.java
+ com.amar.SampleProtoClass
+com/example/tutorial/protos/Person.java
+ com.example.tutorial.protos.Person
+ com.example.tutorial.protos.Person$1
+ com.example.tutorial.protos.Person$Builder
+ com.example.tutorial.protos.Person$PhoneNumber
+ com.example.tutorial.protos.Person$PhoneNumber$1
+ com.example.tutorial.protos.Person$PhoneNumber$Builder
+ com.example.tutorial.protos.Person$PhoneNumberOrBuilder
+ com.example.tutorial.protos.Person$PhoneType
+ com.example.tutorial.protos.Person$PhoneType$1
+com/example/tutorial/protos/AddressBookProtos.java
+ com.example.tutorial.protos.AddressBookProtos
+com/example/tutorial/protos/AddressBook.java
+ com.example.tutorial.protos.AddressBook
+ com.example.tutorial.protos.AddressBook$1
+ com.example.tutorial.protos.AddressBook$Builder
+com/example/tutorial/protos/AddressBookOrBuilder.java
+ com.example.tutorial.protos.AddressBookOrBuilder
+com/example/tutorial/protos/PersonOrBuilder.java
+ com.example.tutorial.protos.PersonOrBuilder
+com/amar/MainPerson.java
+ com.amar.MainPerson

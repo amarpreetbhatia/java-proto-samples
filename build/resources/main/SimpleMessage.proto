@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "com.amar.proto";
+option java_multiple_files = false;
+
+message SimpleMessage {
+  int32 messageId = 1;
+  string messageData = 2;
+  bool isVerified = 3;
+  repeated string listOfUsers = 4;
+}
